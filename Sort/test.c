@@ -7,7 +7,7 @@ void Print(int* Arr, int ArrSize)
 {
 	if (ArrSize <= 0)
 	{
-		printf("Êý×éÎª¿Õ!\n");
+		printf("NULL!\n");
 	}
 	for (int i = 0; i < ArrSize; i++)
 	{
